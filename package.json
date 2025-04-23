@@ -15,12 +15,12 @@
   },
   "workspaces": ["packages/*"],
   "devDependencies": {
-    "@biomejs/biome": "latest",
-    "@types/bun": "latest",
-    "husky": "^9.0.11",
-    "lint-staged": "^15.2.2",
-    "typescript": "^5.4.2",
-    "vitepress": "^1.0.1",
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "^1.2.10",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.5.1",
+    "typescript": "^5.8.3",
+    "vitepress": "^1.6.3",
     "packagea": "workspace:*"
   },
   "lint-staged": {
